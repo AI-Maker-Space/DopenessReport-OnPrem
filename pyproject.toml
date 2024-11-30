@@ -1,0 +1,23 @@
+[project]
+name = "on-prem-agent"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "beautifulsoup4>=4.12.3",
+    "jupyter>=1.1.1",
+    "llama-index-vector-stores-qdrant>=0.4.0",
+    "llama-index>=0.12.2",
+    "llama-parse>=0.5.15",
+    "ollama>=0.4.1",
+    "qdrant-client>=1.12.1",
+    "requests>=2.32.3",
+    "llama-index-llms-ollama>=0.4.1",
+    "llama-index-embeddings-huggingface>=0.4.0",
+    "llama-index-utils-workflow>=0.3.0",
+    "llama-index-readers-file>=0.4.0",
+    "llama-index-llms-openai>=0.3.2",
+    "vllm>=0.6.4.post1",
+    "llama-index-llms-vllm>=0.4.0",
+]
