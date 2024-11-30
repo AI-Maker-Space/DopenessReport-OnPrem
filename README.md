@@ -6,4 +6,4 @@
 
 <h1 align="center" id="heading">:wave: On-Prem RAG: Dopeness Report</h1>
 
-This repository is a companion repository for the [On-Prem RAG](https://youtu.be/u9BL5viEPhU?t=33) with the LlamaIndex event!
+This is a companion repository for the [On-Prem RAG](https://youtu.be/u9BL5viEPhU?t=33) with the LlamaIndex event!
